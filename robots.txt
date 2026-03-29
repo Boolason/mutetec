@@ -1,0 +1,10 @@
+# robots.txt for MUTE Broadband
+User-agent: *
+Allow: /
+Disallow: /assets/
+Disallow: /css/
+Disallow: /js/
+Disallow: /webfonts/
+
+# Sitemap
+Sitemap: https://yourdomain.com/sitemap.xml
